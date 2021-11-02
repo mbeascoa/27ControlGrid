@@ -1,6 +1,9 @@
 package com.example.a27controlgrid;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.TextView;
 import android.widget.GridView;
 import java.util.ArrayList;
